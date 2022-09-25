@@ -4,4 +4,4 @@
 
 | Problem Name | Problem Code and Link | Problem Contest | Solution |
 |--------------|-----------------------|-----------------|----------|
-| Permutation Creation | <a href= https://www.codechef.com/submit/PERMCREATE> PERMCREATE </a> | LTIME112 | 
+| Permutation Creation | <a href= https://www.codechef.com/submit/PERMCREATE> PERMCREATE </a> | LTIME112 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/PERMCREATE.py> Python </a>
