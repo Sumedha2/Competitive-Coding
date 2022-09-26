@@ -6,4 +6,8 @@
 |--------------|-----------------------|-----------------|----------|
 | Permutation Creation | <a href= https://www.codechef.com/submit/PERMCREATE> PERMCREATE </a> | LTIME112 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/PERMCREATE.py> Python </a>|
 | Even Splits | <a href=https://www.codechef.com/submit/EVENSPLIT> EVENSPLIT </a> | START57 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/EVENSPLIT.py > Python </a> |
+| Equalize AB | <a href= https://www.codechef.com/submit/EQUALIZEAB> EQUALIZEAB </a> | LTIME112 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/EQUALIZEAB.py> Python </a> |
+| Non-Negative Product | <a href= https://www.codechef.com/submit/NONNEGPROD> NONNEGPROD </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/NONNEGPROD.py> Python </a>
+| Two Different Palindromes | <a href= https://www.codechef.com/submit/TWODIFFPALIN> TWODIFFPALIN </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/TWODIFFPALIN.py> Python </a>|
+| Stick Break | <a href=https://www.codechef.com/submit/STICKBREAK> STICKBREAK </a> | LTIME112 | <a href = https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/STICKBREAK.py> Python </a>
 
