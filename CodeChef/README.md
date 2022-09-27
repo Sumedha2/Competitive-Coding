@@ -10,4 +10,4 @@
 | Non-Negative Product | <a href= https://www.codechef.com/submit/NONNEGPROD> NONNEGPROD </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/NONNEGPROD.py> Python </a>
 | Two Different Palindromes | <a href= https://www.codechef.com/submit/TWODIFFPALIN> TWODIFFPALIN </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/TWODIFFPALIN.py> Python </a>|
 | Stick Break | <a href=https://www.codechef.com/submit/STICKBREAK> STICKBREAK </a> | LTIME112 | <a href = https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/STICKBREAK.py> Python </a>
-
+| Maximum Expression | <a href=https://www.codechef.com/submit/MAXEXP> MAXEXP </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/MAXEXP.py> Python </a> |
