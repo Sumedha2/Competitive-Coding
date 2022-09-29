@@ -13,3 +13,5 @@
 | Maximum Expression | <a href=https://www.codechef.com/submit/MAXEXP> MAXEXP </a> | START57 | <a href= https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/MAXEXP.py> Python </a> |
 | Break the elements | <a href=https://www.codechef.com/submit/ARRAYBREAK> ARRAYBREAK </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/ARRAYBREAK.py> Python </a> |
 | Remove Bad elements | <a href=https://www.codechef.com/submit/REMOVEBAD> REMOVEBAD </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/REMOVEBAD.py> Python <a/>
+| Equivalent Numbers | <a href=https://www.codechef.com/submit/EQUIVALENT> EQUIVALENT </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/EQUIVALENT.py> Python <a/>|
+| Add to Subsequence | <a href=https://www.codechef.com/submit/SUBSEQDIST> SUBSEQDIST </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SUBSEQDIST.py> Python <a/>|
