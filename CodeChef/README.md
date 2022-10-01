@@ -15,5 +15,6 @@
 | Remove Bad elements | <a href=https://www.codechef.com/submit/REMOVEBAD> REMOVEBAD </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/REMOVEBAD.py> Python <a/>
 | Equivalent Numbers | <a href=https://www.codechef.com/submit/EQUIVALENT> EQUIVALENT </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/EQUIVALENT.py> Python <a/>|
 | Add to Subsequence | <a href=https://www.codechef.com/submit/SUBSEQDIST> SUBSEQDIST </a> | START58 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SUBSEQDIST.py> Python <a/>|
-| Average Number | <a href=https://www.codechef.com/submit/AVG> AVG </a> | LTIME69 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/AVG.py> Python <a/>| How Many Maximums | <a href=https://www.codechef.com/submit/HOWMANYMAX> HOWMANYMAX </a> | START42 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HOWMANYMAX.py> Python <a/>|
+| Average Number | <a href=https://www.codechef.com/submit/AVG> AVG </a> | LTIME69 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/AVG.py> Python <a/>| 
+|How Many Maximums | <a href=https://www.codechef.com/submit/HOWMANYMAX> HOWMANYMAX </a>| START42 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HOWMANYMAX.py> Python <a/>|
 | Weapon Value | <a href=https://www.codechef.com/submit/SC31> SC31 </a> | NOV19 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SC31.py> Python <a/>|
