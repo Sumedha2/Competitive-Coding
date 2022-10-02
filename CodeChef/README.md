@@ -18,3 +18,4 @@
 | Average Number | <a href=https://www.codechef.com/submit/AVG> AVG </a> | LTIME69 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/AVG.py> Python <a/>| 
 |How Many Maximums | <a href=https://www.codechef.com/submit/HOWMANYMAX> HOWMANYMAX </a>| START42 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HOWMANYMAX.py> Python <a/>|
 | Weapon Value | <a href=https://www.codechef.com/submit/SC31> SC31 </a> | NOV19 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SC31.py> Python <a/>|
+| Watson asks Does Permutation Exist | <a href=https://www.codechef.com/submit/PERMEXIS> PERMEXIS </a> | COOK75 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/PERMEXIS.py> Python <a/>|
