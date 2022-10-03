@@ -19,3 +19,4 @@
 |How Many Maximums | <a href=https://www.codechef.com/submit/HOWMANYMAX> HOWMANYMAX </a>| START42 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HOWMANYMAX.py> Python <a/>|
 | Weapon Value | <a href=https://www.codechef.com/submit/SC31> SC31 </a> | NOV19 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SC31.py> Python <a/>|
 | Watson asks Does Permutation Exist | <a href=https://www.codechef.com/submit/PERMEXIS> PERMEXIS </a> | COOK75 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/PERMEXIS.py> Python <a/>|
+| Chef and String | <a href=https://www.codechef.com/submit/RECNDSTR> RECNDSTR </a> | RC122020 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/RECNDSTR.py> Python <a/>|
