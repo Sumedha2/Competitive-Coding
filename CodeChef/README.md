@@ -22,3 +22,4 @@
 | Chef and String | <a href=https://www.codechef.com/submit/RECNDSTR> RECNDSTR </a> | RC122020 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/RECNDSTR.py> Python <a/>|
 | Chef and Happy String | <a href=https://www.codechef.com/submit/HAPPYSTR> HAPPYSTR </a> | START59 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HAPPYSTR.py> Python <a/>|
 | Suspense String | <a href=https://www.codechef.com/submit/SUSSTR> SUSSTR </a> | START59 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SUSSTR.py> Python <a/>|
+| Chef and Meetings | <a href=https://www.codechef.com/FEB21C/problems/MEET> MEET </a> | FEB21C | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/MEET.py> Python <a/>|
