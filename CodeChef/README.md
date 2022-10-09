@@ -23,3 +23,4 @@
 | Chef and Happy String | <a href=https://www.codechef.com/submit/HAPPYSTR> HAPPYSTR </a> | START59 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/HAPPYSTR.py> Python <a/>|
 | Suspense String | <a href=https://www.codechef.com/submit/SUSSTR> SUSSTR </a> | START59 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SUSSTR.py> Python <a/>|
 | Chef and Meetings | <a href=https://www.codechef.com/FEB21C/problems/MEET> MEET </a> | FEB21C | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/MEET.py> Python <a/>|
+| Vaccine Distribution | <a href=https://www.codechef.com/submit/VACCINE2> VACCINE2 </a> | DEC20 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/VACCINE2.py> Python <a/>|
