@@ -26,3 +26,4 @@
 | Vaccine Distribution | <a href=https://www.codechef.com/submit/VACCINE2> VACCINE2 </a> | DEC20 | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/VACCINE2.py> Python <a/>|
 | Single Operation Part 1 | <a href=https://www.codechef.com/OCT221D/problems/SINGLEOP1> SINGLEOP1 </a> | OCT221D | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SINGLEOP1.py> Python <a/>|
 | Single Operation Part 2 | <a href=https://www.codechef.com/OCT221D/problems/SINGLEOP2> SINGLEOP2 </a> | OCT221D | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/SINGLEOP2.py> Python <a/>|
+| Average Permutation | <a href=https://www.codechef.com/problems/AVGPERM> AVGPERM </a> | Practice | <a href=https://github.com/Sumedha2/Competitive-Coding/blob/main/CodeChef/AVGPERM.py> Python <a/>|
