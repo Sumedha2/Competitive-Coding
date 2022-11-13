@@ -4,7 +4,7 @@ int length, a[20];
 void display(){
     cout<<"the elements are: ";
     for(int i=0; i<length; i++){
-        cout<<a[i]<<" '";
+        cout<<a[i]<<" ";
     }
     cout<<endl;
 }
@@ -51,6 +51,7 @@ int main(){
     for(int i=0; i<length; i++){
         cin>>a[i];
     }
+    display();
     int key;
     cout<<"enter element to be searched: ";
     cin>>key;
