@@ -1,1 +1,1 @@
-    insert(1, p);
+   insertlast(4, head);
