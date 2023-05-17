@@ -72,5 +72,3 @@ int main(){
     }
     display(third);
 }
-//     cout<<endl;
-//     display(second);
