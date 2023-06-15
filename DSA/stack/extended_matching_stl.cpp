@@ -39,6 +39,6 @@ int isbalanced(char* exp){
 int main(){
     char a[]="{([a+b]*[c-d])/e}";
     char b[]="{([a+b]}*[c-d])/e}";
-    char c[]="{([{a+b]*[c-d])/e}";
+    char c[]="{([{a+b]*[c-d])//e}";
     cout<<isbalanced(a)<<endl<<isbalanced(b)<<endl<<isbalanced(c)<<endl;
 }
