@@ -7,7 +7,6 @@ class node{
     node* next;
 };
 
-
 node* create(int* a, int size){
     node* head= new node;
     node* last;
