@@ -21,6 +21,7 @@ public:
             cin>>a[i];
         }
     }
+    
     void display(){
         cout<<"Array elements are: ";
         for (int i=0; i<length; i++){
