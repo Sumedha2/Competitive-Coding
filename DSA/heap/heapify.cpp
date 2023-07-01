@@ -59,6 +59,7 @@ void print(t& v, int n, string s){
     cout<<"]"<<endl;
 }
 
+
 int main(){
     int a[]={5, 10, 30, 20, 35, 40, 15};
     print(a, 7, "A");
