@@ -26,7 +26,6 @@ node* create(int* a, int size){
     return head;
 }
 
-
 void display(node* p){
     node* s=p;
     do{
