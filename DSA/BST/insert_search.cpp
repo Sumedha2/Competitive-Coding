@@ -8,7 +8,6 @@ class node{
     node* rchild;
 };
 
-
 class bst{
     private:
     node* root;
